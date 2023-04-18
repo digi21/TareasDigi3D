@@ -1,3 +1,5 @@
+![splash](https://user-images.githubusercontent.com/3158109/232717052-0d34d069-b510-470a-9379-a865e6414585.png)
+
 # Tareas de Digi3D.NET
 
 Bienvenido al repositorio de tareas de desarrollo de Digi3D.NET.
@@ -20,3 +22,4 @@ Por favor, no ahorres pulsaciones (¡teclear es gratis!), y explica el problema 
 * Para crear una tarea tan solo tienes que hacer clic arriba en la pestaña [Issues](https://github.com/digi21/TareasDigi3D/issues)
 * Para localizar los problemas existentes tan solo tienes que poner una palabra clave en campo Filters.
 * Para crear un problema nuevo, tan solo tienes que pulsar el botón [New Issue](https://github.com/digi21/TareasDigi3Ds/issues/new)
+
